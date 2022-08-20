@@ -74,7 +74,7 @@
     "react-scripts": "^4.0.3",
     "react-slick": "^0.28.1",
     "reactjs-popup": "^2.0.5",
-    "recompose": "^0.17.0",
+    
     "redux": "^4.2.0",
     "rn-nodeify": "^10.3.0",
     "serve": "^11.3.0",
